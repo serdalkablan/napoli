@@ -1,0 +1,114 @@
+[
+    {
+        "id": "001",
+        "neapolitan": "a craie a craie",
+        "italian": "procrastinare",
+        "english": "to procrastinate",
+        "pronunciation": "/a ˈkraje a ˈkraie/",
+        "category": "general",
+        "difficulty": "intermediate",
+        "examples": {
+            "neapolitan": "Nun fa' sempe a craie a craie",
+            "italian": "Non procrastinare sempre",
+            "english": "Don't always procrastinate"
+        }
+    },
+    {
+        "id": "002",
+        "neapolitan": "a manasmèrza",
+        "italian": "manrovescio",
+        "english": "backhand slap",
+        "pronunciation": "/a manaˈsmertsa/",
+        "category": "general",
+        "difficulty": "advanced",
+        "examples": {
+            "neapolitan": "Te voglio dà nu manasmèrza",
+            "italian": "Ti voglio dare un manrovescio",
+            "english": "I want to give you a backhand slap"
+        }
+    },
+    {
+        "id": "003",
+        "neapolitan": "a quatte piére",
+        "italian": "carponi",
+        "english": "on all fours",
+        "pronunciation": "/a ˈkwatte ˈpjere/",
+        "category": "general",
+        "difficulty": "basic",
+        "examples": {
+            "neapolitan": "Sta cammenànno a quatte piére",
+            "italian": "Sta camminando carponi",
+            "english": "He's walking on all fours"
+        }
+    },
+    {
+        "id": "004",
+        "neapolitan": "abbabbià",
+        "italian": "abbindolare",
+        "english": "to dupe",
+        "pronunciation": "/abbaˈbbja/",
+        "category": "general",
+        "difficulty": "intermediate",
+        "examples": {
+            "neapolitan": "M'ha abbabbiàto bbuono",
+            "italian": "Mi ha abbindolato bene",
+            "english": "He duped me well"
+        }
+    },
+    {
+        "id": "005",
+        "neapolitan": "abbacchiàrse",
+        "italian": "appisolarsi",
+        "english": "to doze off",
+        "pronunciation": "/abbaˈkkjarse/",
+        "category": "general",
+        "difficulty": "basic",
+        "examples": {
+            "neapolitan": "Me sto abbacchiànno",
+            "italian": "Mi sto appisolando",
+            "english": "I'm dozing off"
+        }
+    },
+    {
+        "id": "006",
+        "neapolitan": "ammore",
+        "italian": "amore",
+        "english": "love",
+        "pronunciation": "/amˈmore/",
+        "category": "emotions",
+        "difficulty": "basic",
+        "examples": {
+            "neapolitan": "Che bell'ammore! 🍕",
+            "italian": "Che bell'amore!",
+            "english": "What a beautiful love!"
+        }
+    },
+    {
+        "id": "007",
+        "neapolitan": "pizza",
+        "italian": "pizza",
+        "english": "pizza",
+        "pronunciation": "/ˈpittsa/",
+        "category": "food",
+        "difficulty": "basic",
+        "examples": {
+            "neapolitan": "Na pizza margherita 🍕",
+            "italian": "Una pizza margherita",
+            "english": "A margherita pizza"
+        }
+    },
+    {
+        "id": "008",
+        "neapolitan": "mamma",
+        "italian": "mamma",
+        "english": "mother",
+        "pronunciation": "/ˈmamma/",
+        "category": "family",
+        "difficulty": "basic",
+        "examples": {
+            "neapolitan": "Mamma mia, che bello! 🌋",
+            "italian": "Mamma mia, che bello!",
+            "english": "My goodness, how beautiful!"
+        }
+    }
+]
